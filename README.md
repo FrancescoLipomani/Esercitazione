@@ -26,8 +26,8 @@ salvare i file
 --> effettuare il login
 --> cliccare su NEW
 
-UTILIZZARE LA PUSH seguente comando --> git push https://<username>:<token>@github.com/<username>/<reponame>.git
+UTILIZZARE LA PUSH seguente comando --> git push https://username:token@github.com/username/reponame.git
 
 scaricare la cartella e mettere i file dentro la cartella creata all'inzio e fare i comandi qui sotto riportati per salvare 
 # COMANDI
-![comando1](comandi1.png)
+![comando1.png](comandi1.png)
