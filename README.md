@@ -30,4 +30,12 @@ UTILIZZARE LA PUSH seguente comando --> git push https://username:token@github.c
 
 scaricare la cartella e mettere i file dentro la cartella creata all'inzio e fare i comandi qui sotto riportati per salvare 
 # COMANDI
-![comando1.png](comandi1.png)
+![comando1](comandi1.png)
+![comando2](comandi2.png)
+![comando3](comandi3.png)
+
+--> per aggiornare il README.md e basta 
+![comandi4](comandi4.png)
+
+--> per aggiornare tutto 
+![comandi5](comandi5.png)
