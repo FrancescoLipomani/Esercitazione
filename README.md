@@ -10,6 +10,24 @@ Data una targa calcolare il totale in euro dei noleggi
 Dato un codice fiscale calcolare il totale in euro dei noleggi
 Ricavare il totale in euro dei noleggi raggruppato per auto.
 
-# COMANDI
+# PortableGit
+per scaricare la versione segui il link https://github.com/git-for-windows/git/releases/
+--> PortableGit-2.40.1-64-bit.7z.exe
 
-![](comandi1.png)
+C: \Users\mikar\Downloads\PortableGit --> aprire il programma git-bash nella cartella PortableGit appena creata
+
+# Creazione progetto
+creare la cartella su Desktop --> eseguire su git-bash cd  $HOME/Desktop/Esercitazione16maggio
+creare dentro la cartella un file README.md e mettere dentro la consegna dell'esercitazione 
+salvare i file
+
+# Creazione repository su Github
+--> aprire il sito github.com
+--> effettuare il login
+--> cliccare su NEW
+
+UTILIZZARE LA PUSH seguente comando --> git push https://<username>:<token>@github.com/<username>/<reponame>.git
+
+scaricare la cartella e mettere i file dentro la cartella creata all'inzio e fare i comandi qui sotto riportati per salvare 
+# COMANDI
+![comando1](comandi1.png)
